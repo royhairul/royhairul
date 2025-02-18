@@ -1,4 +1,10 @@
+
 ### Hi there 👋
+
+
+<br>
+<img src="https://raw.githubusercontent.com/royhairul/royhairul/master/naruto.gif" />
+<br>
 
 <!--
 **royhairul/royhairul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
